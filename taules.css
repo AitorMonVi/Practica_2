@@ -1,0 +1,19 @@
+h1 {
+    color:blueviolet;/*cambia el color del h1 a blueviolet*/
+    font-weight: bold;/*modifica la letra poniendola en negrita*/
+    text-align: center;/*coloca el texto h1 en el centro de la pantalla*/
+}
+table {
+    margin-left: auto;  margin-right: auto;/*ajusta la tabla al centro de la pantalla*/
+    background-color: darkgray;/*el color de fondo del interior de la tabla se vuelve darkgray*/
+    border:1px solid black;/*coloca unos bordes a la tabla de 1px y color black*/
+}
+
+th, td {
+    text-align: center;/*realiza la misma funcion que en h1 pero para todo el texto del interior de la tabla*/
+    font-weight: bold;/*las lestras de la tabla se ponen en negrita*/
+}
+
+caption {
+    color: blue;/*cambia el color de la caption a azul*/
+}
